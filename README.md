@@ -20,8 +20,6 @@ Smart Contact QR Generator is a web app where users can create a QR code for the
 ➡️ Scan with your mobile phone 📱  
 ➡️ Save contact easily!
 
-![QR Demo GIF]
-
 
 ---
 
