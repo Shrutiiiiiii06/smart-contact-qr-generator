@@ -33,25 +33,22 @@ Smart Contact QR Generator is a web app where users can create a QR code for the
 ## ⚙️ Setup Instructions
 
 1. Clone the repository:
-bash
+```bash
 git clone https://github.com/Shrutiiiiiii06/smart-contact-qr-generator.git
 
 2. Create a virtual environment (recommended)
-
-bash
+```bash
 python -m venv venv
 source venv/bin/activate   # For Mac/Linux
 .\venv\Scripts\activate    # For Windows
 
 
 3. Install dependencies
-
-bash
+```bash
 pip install -r requirements.txt
 
 4. Run the Django server
-
-bash
+```bash
 python manage.py runserver
 
 
